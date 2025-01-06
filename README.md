@@ -18,10 +18,12 @@ Implementation of robust adaptive control strategies for multi-agent systems, ad
 
 ## Results
 The implementation demonstrates:
-
-![Successful consensus achievement in networked systems](project_timeinvariant.png)
+-Successful consensus achievement in networked systems
+![before](project_timeinvariant.png)
 ![after](project_timevariant_Recovery.png)
 - Effective handling of sensor uncertainties
+![before](project_2_timevarying_3D.png)
+![after](project_2_Recovery.png)
 - Robust performance under various conditions
 - Error dynamics with different noise types (Gaussian, Brownian)
 
